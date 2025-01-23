@@ -275,7 +275,7 @@ header button {
 	width: 40%;
 	position: relative;
 }
-.map-container h3{
+.map-container h3 {
 	margin-left: 30px;
 }
 .map {
@@ -628,6 +628,9 @@ header .search-button {
 	}
 	.map-container {
 		width: 100%;
+	}
+	.map {
+		margin: 0;
 	}
 }
 @media (max-width: 768px) {
